@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vasavi 👋
 
-<!--
-**Vasavi-235/Vasavi-235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior SQL Developer | Oracle SQL | Power BI
 
-Here are some ideas to get you started:
+🔹 Passionate about data analysis, writing clean SQL queries, and building dashboards that help businesses make decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Highlighted Work
+- **SQL Practice & Case Studies**
+- **Power BI dashboards with data storytelling**
+- **Problem-solving projects from LeetCode / HackerRank**
+
+📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/vasavi-amberpeta)
