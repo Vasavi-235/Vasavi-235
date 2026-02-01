@@ -1,12 +1,11 @@
 # Hi, I'm Vasavi 👋
 
-Junior SQL Developer | Oracle SQL | Power BI
+Junior SQL Developer | Oracle SQL 
 
 🔹 Passionate about data analysis, writing clean SQL queries, and building dashboards that help businesses make decisions.
 
 📂 Highlighted Work
 - **SQL Practice & Case Studies**
-- **Power BI dashboards with data storytelling**
 - **Problem-solving projects from LeetCode / HackerRank**
 
 📫 Connect with me:
