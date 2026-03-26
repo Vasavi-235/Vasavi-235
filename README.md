@@ -1,6 +1,6 @@
 # Hi, I'm Vasavi 👋
 
-Junior SQL Developer | Oracle SQL 
+SQL Developer | Oracle SQL 
 
 🔹 Passionate about data analysis, writing clean SQL queries, and building dashboards that help businesses make decisions.
 
