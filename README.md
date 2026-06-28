@@ -43,11 +43,6 @@ Passionate about data analysis, writing optimized SQL queries, and building real
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vasavi-235&show_icons=true&theme=tokyonight)
-
----
-
 ## 🏆 Badges
 
 ![SQL](https://img.shields.io/badge/SQL-Oracle-red?logo=oracle)
