@@ -62,6 +62,8 @@ Passionate about data analysis, writing optimized SQL queries, and building real
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:yourmail@gmail.com)
 
+https://chatgpt.com/s/m_6a40ceefd4d88191b9fcf5349aa5d7e7
+
 ---
 
 ⭐ *“Consistency beats intensity in long-term growth.”*
